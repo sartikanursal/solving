@@ -1,0 +1,1 @@
+﻿positionForPages[10]={page:10,positions:[{word:"Sartika",left:0.184387,top:0.644406,width:0.208718,height:0.073721},{word:"082292120695",left:0.244809,top:0.754404,width:0.141209,height:0.020211},{word:"@srtiikanrsl",left:0.244809,top:0.798031,width:0.116121,height:0.020211},{word:"sartikanursal@gmail.com",left:0.244809,top:0.841661,width:0.224257,height:0.020212}]};
